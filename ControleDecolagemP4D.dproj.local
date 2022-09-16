@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/16 19:07:47.000.022,C:\Projetos\p4d new archives\Demos\Demo01\Unit1.dfm=C:\Projetos\ControleDecolagemP4D\Unit1.dfm</Transaction>
+    <Transaction>2022/09/16 19:07:47.000.022,C:\Projetos\p4d new archives\Demos\Demo01\Unit1.pas=C:\Projetos\ControleDecolagemP4D\Unit1.pas</Transaction>
+    <Transaction>2022/09/16 19:10:19.705,C:\Projetos\ControleDecolagemP4D\ControleDecolagemP4D.dproj=C:\Projetos\p4d new archives\Demos\Demo01\Demo01.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
